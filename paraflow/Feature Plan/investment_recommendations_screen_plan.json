@@ -1,0 +1,27 @@
+{
+  "parentId": {
+    "sessionId": "1",
+    "id": "2"
+  },
+  "orderIndex": "hg==",
+  "title": "investment_recommendations_screen_plan.md",
+  "relativeTransform": {
+    "x": 4676.0,
+    "y": 125.0
+  },
+  "assetMetadata": {
+    "assetId": {
+      "path": "/workspace/github_work/project/workspace/paraflow/Feature Plan/investment_recommendations_screen_plan.md"
+    },
+    "mimeType": "text/markdown",
+    "hash": "-FFt43qlU-VLVB4lB4fibRX0o9iS3RcGDKp1yYoRA_o",
+    "contentLength": 893,
+    "tags": {
+      "markdown_type": "screen_plan"
+    },
+    "assetSize": {
+      "width": 520
+    }
+  },
+  "id": "12:1"
+}

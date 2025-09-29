@@ -1,0 +1,23 @@
+{
+  "parentId": {
+    "sessionId": "1",
+    "id": "3"
+  },
+  "orderIndex": "gA==",
+  "title": "FinSmart Clean Mobile.style-guide.md",
+  "relativeTransform": {
+    "x": 100.0,
+    "y": 125.0
+  },
+  "assetMetadata": {
+    "assetId": {
+      "path": "/workspace/github_work/project/workspace/paraflow/Style Guide/FinSmart Clean Mobile.style-guide.md"
+    },
+    "mimeType": "text/markdown",
+    "hash": "XwslfEHCb2cUgplCvnDK0L7SDp57eDP0lMGrn3SYKx0",
+    "contentLength": 15399,
+    "assetSize": {},
+    "previewImageHash": "kAoTGsPy9SUPM32j5nijtA5cFUzrkDmpUIOBQSoisYg"
+  },
+  "id": "14:1"
+}

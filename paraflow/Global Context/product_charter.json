@@ -1,0 +1,24 @@
+{
+  "parentId": {
+    "sessionId": "1",
+    "id": "1"
+  },
+  "orderIndex": "gA==",
+  "title": "product_charter.md",
+  "relativeTransform": {
+    "x": 100.0,
+    "y": 125.0
+  },
+  "assetMetadata": {
+    "assetId": {
+      "path": "/workspace/github_work/project/workspace/paraflow/Global Context/product_charter.md"
+    },
+    "mimeType": "text/markdown",
+    "hash": "LBW57z7TQlLc4vodeC_WwQ6hP8CuiwdTeO6aV7efqCo",
+    "contentLength": 5395,
+    "assetSize": {
+      "width": 720
+    }
+  },
+  "id": "3:1"
+}

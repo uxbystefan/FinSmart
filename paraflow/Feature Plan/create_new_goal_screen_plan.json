@@ -1,0 +1,27 @@
+{
+  "parentId": {
+    "sessionId": "1",
+    "id": "2"
+  },
+  "orderIndex": "hw==",
+  "title": "create_new_goal_screen_plan.md",
+  "relativeTransform": {
+    "x": 5236.0,
+    "y": 125.0
+  },
+  "assetMetadata": {
+    "assetId": {
+      "path": "/workspace/github_work/project/workspace/paraflow/Feature Plan/create_new_goal_screen_plan.md"
+    },
+    "mimeType": "text/markdown",
+    "hash": "sJqHiA1PW6-jpomeIo9temQxvLrFDJotsCjXwROZsOs",
+    "contentLength": 819,
+    "tags": {
+      "markdown_type": "screen_plan"
+    },
+    "assetSize": {
+      "width": 520
+    }
+  },
+  "id": "13:1"
+}

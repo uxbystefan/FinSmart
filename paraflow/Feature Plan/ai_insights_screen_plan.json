@@ -1,0 +1,27 @@
+{
+  "parentId": {
+    "sessionId": "1",
+    "id": "2"
+  },
+  "orderIndex": "gw==",
+  "title": "ai_insights_screen_plan.md",
+  "relativeTransform": {
+    "x": 2996.0,
+    "y": 125.0
+  },
+  "assetMetadata": {
+    "assetId": {
+      "path": "/workspace/github_work/project/workspace/paraflow/Feature Plan/ai_insights_screen_plan.md"
+    },
+    "mimeType": "text/markdown",
+    "hash": "kRuPVzT-QUmqJMEHkrDuP5d-4MWoG4XjIsHbHUY21B4",
+    "contentLength": 1053,
+    "tags": {
+      "markdown_type": "screen_plan"
+    },
+    "assetSize": {
+      "width": 520
+    }
+  },
+  "id": "9:1"
+}
